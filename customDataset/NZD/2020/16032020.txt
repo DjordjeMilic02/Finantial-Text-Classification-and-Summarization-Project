@@ -1,0 +1,33 @@
+-2.20
+New Zealand’s financial system is sound, with strong capital and liquidity buffers, but faces significant uncertainties from the impacts of COVID-19. The Reserve Bank is announcing additional measures to support the provision of credit and market functioning.
+
+Reserve Bank Deputy Governor Geoff Bascand says the situation around COVID-19 is evolving rapidly, and there is much uncertainty.
+
+“To support credit availability, the Bank has decided to delay the start date of increased capital requirements for banks by 12 months - to 1 July 2021. Should conditions warrant it next year, the Reserve Bank will consider whether further delays are necessary.”
+
+“We are taking this action now to help support lending in the economy at time when there is a lot of uncertainty. The Reserve Bank’s expectation is that banks will utilise this flexibility to maintain lending to households and businesses. Banks have significant buffers above current regulatory minimums, and we encourage them to use them,” Mr Bascand said.
+
+“Deferring the capital framework implementation provides banks with significant capital headroom. We estimate that this headroom will enable banks to supply up to around $47 billion more lending than would have been the case, had the decisions been implemented as planned.”
+
+Mr Bascand said the Reserve Bank is currently identifying other regulatory initiatives that can be deferred, to reduce the burden on financial institutions at this time of uncertainty. These will be announced in coming days. The Reserve Bank is working closely with the Council of Financial Regulators and international regulators.
+
+Assistant Governor Christian Hawkesby said the Bank is also ensuring there is sufficient liquidity in the financial system, through regular market operations.
+
+“The Bank has a number of operational tools at its disposal to support liquidity and market functioning in New Zealand. This has helped the domestic cash market and foreign exchange swap market to continue to function effectively over recent weeks,” Mr Hawkesby says.
+
+“Banks currently have robust liquidity and funding positions and can manage short-term disruptions to offshore funding markets. We will continue to monitor developments closely and engage regularly with market participants to ensure we are ready to provide support if needed.”
+
+The Reserve Bank also announced the following changes to the pricing of its standing facilities and ESAS accounts, in part to assist cash market functioning at a lower OCR:
+
+Cash that ESAS account holders have on deposit at the Reserve Bank that is in excess of their allocated ESAS credit tier will be remunerated at the OCR less 25 basis points (from OCR less 75 basis points).
+Bonds lent through the Bond Lending Facility well be lent at the OCR less 50 basis points (from OCR less 75 basis points).
+A maximum rate will be set for bonds lent through the Repo Facility at the OCR less 50 basis points (from OCR less 75 basis points).
+Cash will continue to be lent via the Overnight Reverse Repo Facility at the OCR plus 25 basis points until further notice.
+Reserve Bank liquidity accommodation for new payments system
+
+The Reserve Bank has a number of tools to provide additional liquidity, and support to market functioning, should these be required in the future:
+
+The ability to provide term funding through a Term Auction Facility (TAF) which can provide collateralised loans out to 12 months. This facility was previously provided from 2008 to 2010.
+The Bank has an established role to provide liquidity in the New Zealand dollar foreign exchange market in periods of illiquidity or dysfunction, and is operationally ready to undertake this role if required.
+The ability to provide liquidity to the NZ government bond market to support market functioning.
+Mr Hawkesby says the Reserve Bank continues to monitor developments, and is ready to act to ensure markets and the financial system operate in a stable and efficient manner.

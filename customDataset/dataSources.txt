@@ -1,0 +1,9 @@
+AUD: https://www.rba.gov.au/s/search.html?query=Monetary+policy+decisions&f.Publications%7CMinutes=Minutes&collection=rba-web&start_rank=191&sort=date
+CAD: https://www.bankofcanada.ca/press/press-releases
+CHF: https://www.snb.ch/en/the-snb/mandates-goals/monetary-policy
+EUR: https://www.ecb.europa.eu/press/govcdec/mopo/html/index.en.html
+GBP: https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/monetary-policy-summary-and-minutes
+JPY: https://www.boj.or.jp/en/mopo/mpmdeci/state_2025/index.htm
+NZD: https://www.rbnz.govt.nz/Monetary%20policy/Monetary%20policy%20decisions
+USD: https://www.federalreserve.gov/newsevents/pressreleases.htm //FOMC
+https://www.federalreserve.gov/monetarypolicy/fomc_historical_year.htm

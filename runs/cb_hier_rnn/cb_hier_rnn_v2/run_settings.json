@@ -1,0 +1,38 @@
+{
+  "model_type": "HierRNN-Abstractive",
+  "config": {
+    "EMB_DIM": 384,
+    "WORD_HID": 384,
+    "SENT_HID": 384,
+    "DEC_HID": 768,
+    "DROPOUT": 0.25,
+    "MAX_SENTS": 50,
+    "MAX_WORDS": 32,
+    "MAX_TGT": 128,
+    "TIE_EMBED": true
+  },
+  "training": {
+    "batch_size": 4,
+    "epochs": 15,
+    "lr": 0.002,
+    "weight_decay": 0.01,
+    "clip_norm": 1.0,
+    "label_smoothing": 0.1,
+    "patience": 10,
+    "min_delta": 0.0005,
+    "min_epochs": 8,
+    "warmup_fraction": 0.05,
+    "accum_steps": 1,
+    "amp": true
+  },
+  "dataset_sizes": {
+    "train": 25713,
+    "validation": 1143,
+    "test": 1143
+  },
+  "device": "cuda:0",
+  "gpu_name": "NVIDIA GeForce RTX 3060 Ti",
+  "total_training_time_seconds": 27384.073,
+  "python_version": "3.12.10",
+  "torch_version": "2.5.1+cu121"
+}

@@ -1,0 +1,3 @@
+NEGATIVE threshold (best_tau) = 0.560000
+Validation macro-F1 at best_tau = 0.609907
+Test macro-F1 (thresholded) = 0.649123
